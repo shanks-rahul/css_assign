@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color:blueviolet;
+}
+img{
+    display: flex;
+    margin:0 auto;
+    width: 30rem;
+}
+p{
+    text-align: center;
+    padding: 20px 20rem;
+}

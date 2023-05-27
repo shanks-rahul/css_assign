@@ -1,0 +1,22 @@
+.navbar{
+    background-color: blueviolet;
+    height:46px
+}
+.list{
+    display:flex;
+    justify-content: center;
+    list-style: none;
+    padding:12px;
+
+}
+.elements{
+    padding: 0px 18px;
+    color: white;
+}
+.elements:hover{
+    color:brown;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight:bold;
+}
